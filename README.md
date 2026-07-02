@@ -134,8 +134,7 @@ CREATE TABLE administrators (
     created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );
 ```
-
-## 🔌 API Endpoints
+ API Endpoints
 
 ### Public Endpoints
 - `POST /api/create-order` - Create new order
